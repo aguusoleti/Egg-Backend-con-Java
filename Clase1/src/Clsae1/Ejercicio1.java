@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clase1;
+package Clsae1;
 
 import java.util.Scanner; // Este es el importe de la clase Scanner
 
